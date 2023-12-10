@@ -1,0 +1,16 @@
+/lib/
+/bin/
+/share/
+.idea
+/interpreter/
+/logic_module/classification_module/datasets/
+/logic_module/classification_module/input_image/
+/logic_module/detection_module/best.pt
+/logic_module/detection_module/yolov8m.pt
+/logic_module/detection_module/yolov8n.pt
+/logic_module/detection_module/yolov8s.pt
+/logic_module/detection_module/yolov8x.pt
+/logic_module/classification_module/output/
+/logic_module/detection_module/datasets/
+/not_used/
+/logic_module/detection_module/runs/
